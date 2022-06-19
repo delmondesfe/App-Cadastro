@@ -12,6 +12,7 @@ layout = [
 
 
 janela = sg.Window('login',layout=layout)
+#janela = sg.theme('dark')
 
 while True:
     event, values = janela.read()
