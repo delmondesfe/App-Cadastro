@@ -3,4 +3,4 @@
 # Tecnologias utulizadas: 
 # Python
 # PySimpleGUI
-# MySQL Rodando em Docker Local
+# Postgres Rodando em Docker Local
