@@ -1,6 +1,6 @@
 import PySimpleGUI as sg
 
-
+    
 layout = [
     [sg.Text('Usuario')],
     [sg.Input(key='usuario')],
